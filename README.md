@@ -9,4 +9,6 @@ This Project is built with NextJs, Web3 ,Ethereum , smart contract
 
 
 ---Future Update Plan---
+
+
 3) Cart Function
